@@ -27,6 +27,14 @@ header{
 }
 
 
+.icono{
+   width: 30px;
+   height: 30px;
+   position: absolute; 
+   right:10px;
+   top: 15px; 
+}
+
 .card {
     display: inline-block;
     width: 300px;
